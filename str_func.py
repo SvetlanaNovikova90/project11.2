@@ -1,5 +1,6 @@
 def word_in_capital_letters(word):
     '''
+<<<<<<< HEAD
     функция делает все буквы заглавными
     :param word: str
     :return: str
@@ -13,3 +14,4 @@ def first_letters_capitalized(text):
     :return:
     '''
     return text.title()
+
